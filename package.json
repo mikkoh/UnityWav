@@ -1,0 +1,25 @@
+{
+  "name": "com.deadlyfingers.unitywav",
+  "displayName": "Unity WAV",
+  "version": "1.0.0",
+  "description": "WAV utility for recording and audio playback functions in Unity",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deadlyfingers/UnityWav.git"
+  },
+  "keywords": [
+    "audio",
+    "wav",
+    "recording",
+    "microphone"
+  ],
+  "author": {
+    "name": "David Douglas",
+    "url": "https://www.deadlyfingers.net/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deadlyfingers/UnityWav/issues"
+  },
+  "homepage": "https://github.com/deadlyfingers/UnityWav#readme"
+}
